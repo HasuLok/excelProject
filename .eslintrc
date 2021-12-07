@@ -13,7 +13,9 @@
         "comma-dangle":"off",
         "semi":"off",
         "require-jsdoc":"off",
-        "eol-last":"off"
+        "eol-last":"off",
+        "no-trailing-spaces":"off",
+        "object-curly-spacing":"off"
     },
     "extends": ["eslint:recommended", "google"]
 }
