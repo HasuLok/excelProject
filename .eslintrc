@@ -15,7 +15,8 @@
         "require-jsdoc":"off",
         "eol-last":"off",
         "no-trailing-spaces":"off",
-        "object-curly-spacing":"off"
+        "object-curly-spacing":"off",
+        "no-debugger":"off"
     },
     "extends": ["eslint:recommended", "google"]
 }
